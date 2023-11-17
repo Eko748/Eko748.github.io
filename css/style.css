@@ -300,7 +300,7 @@ a.nav-link:hover {
 #portfolio img,
 #portfolio .card,
 #portfolio .card-img-overlay, iframe, .jumbotronImg, .card {
-    border-radius: 27px;
+    border-radius: 5px;
 }
 
 #portfolio .card-img-overlay {
